@@ -1,0 +1,35 @@
+.bienvenue{
+    font-size: 50px;
+    font-weight: bold;
+  }
+.subTitle{
+    font-size: 32px;
+    font-weight: regular;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: -12px;
+  }
+
+.recherche{
+    font-size: 22px;
+    font-weight: regular;
+    border-radius: 10px;
+    padding: 10px 18px;
+    width: 400px;
+    color: #808080;
+    background-image: -moz-element("/akar-icons_search.svg");
+  }
+/* no outline on focus */
+.recherche:focus {
+    outline: none;
+  }
+  .rechercheButoon{
+    font-size: 22px;
+    font-weight: regular;
+    border-radius: 11px;
+    padding: 10px 18px;
+    width: 110;
+    background-color: #ffffff;
+    color: #808080;
+    margin-left: 20px;
+  }

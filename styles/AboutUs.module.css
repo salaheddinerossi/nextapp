@@ -1,0 +1,15 @@
+.title{
+    font-size: 35px;
+    color: #616161;
+    font-weight: bold;
+}
+.bg{
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 26px;
+    
+}
+.text{
+    font-size: 20px;
+    color: #616161;
+
+}

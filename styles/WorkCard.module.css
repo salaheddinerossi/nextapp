@@ -1,0 +1,16 @@
+.card{
+    background-color: #D9F3E2;
+    border-radius: 22px;
+}
+.title{
+    font-size: 25px;
+    font-weight: bold;
+    color: #616161;
+}
+.button{
+    font-size: 20px;
+    background: linear-gradient(270.21deg, #76E49C 54.56%, #95FBB8 94.62%);
+    border-radius: 24px;
+    color: white;
+    
+}
